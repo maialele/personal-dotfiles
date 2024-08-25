@@ -1,0 +1,6 @@
+2024-08-11 00:05:36.081 [info] Started local extension host with pid 11911.
+2024-08-11 00:05:36.213 [info] Started initializing default profile extensions in extensions installation folder. file:///home/maya/.vscode-oss/extensions
+2024-08-11 00:05:37.043 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/maya/.vscode-oss/extensions
+2024-08-11 00:05:39.695 [info] [perf] Render performance baseline is 49ms
+2024-08-11 00:05:50.731 [info] Started local extension host with pid 12019.
+2024-08-11 00:05:53.653 [info] [perf] Render performance baseline is 64ms

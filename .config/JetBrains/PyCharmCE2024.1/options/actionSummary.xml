@@ -1,0 +1,40 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="68" l="1724593562953" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="4" l="1724593565584" />
+    </e>
+    <e n="EditorEnter">
+      <i c="11" l="1724593548228" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="1" l="1724593544122" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1724593400203" />
+    </e>
+    <e n="Run">
+      <i c="3" l="1724593522759" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1724593545385" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1724593568001" />
+    </e>
+    <e n="com.intellij.execution.console.ConsoleExecuteAction">
+      <i c="1" l="1724593443309" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="3" l="1724593512792" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1724593375444" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1724593532753" />
+    </e>
+  </component>
+</application>

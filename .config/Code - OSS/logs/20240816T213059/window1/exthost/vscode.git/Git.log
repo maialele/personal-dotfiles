@@ -1,0 +1,101 @@
+2024-08-16 21:31:02.486 [info] [main] Log level: Info
+2024-08-16 21:31:02.486 [info] [main] Validating found git in: "git"
+2024-08-16 21:31:02.486 [info] [main] Using git "2.46.0" from "git"
+2024-08-16 21:31:02.486 [info] [Model][doInitialScan] Initial repository scan started
+2024-08-16 21:31:02.486 [info] > git rev-parse --show-toplevel [3ms]
+2024-08-16 21:31:02.486 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-16 21:31:02.486 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-16 21:31:02.486 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-16 21:31:02.486 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-16 21:31:02.486 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-16 21:31:02.486 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-08-16 21:31:02.486 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-16 21:31:02.486 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-16 21:31:03.345 [info] > git rev-parse --show-toplevel [3ms]
+2024-08-16 21:31:03.345 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-16 21:33:51.355 [info] [main] Log level: Info
+2024-08-16 21:33:51.355 [info] [main] Validating found git in: "git"
+2024-08-16 21:33:51.355 [info] [main] Using git "2.46.0" from "git"
+2024-08-16 21:33:51.355 [info] [Model][doInitialScan] Initial repository scan started
+2024-08-16 21:33:51.355 [info] > git rev-parse --show-toplevel [17ms]
+2024-08-16 21:33:51.378 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-08-16 21:33:51.429 [info] [Model][openRepository] Opened repository: /home/maya/repos/MartinLwx_dotfiles
+2024-08-16 21:33:51.474 [info] > git rev-parse --show-toplevel [24ms]
+2024-08-16 21:33:51.475 [info] > git config --get commit.template [34ms]
+2024-08-16 21:33:51.493 [info] > git rev-parse --show-toplevel [10ms]
+2024-08-16 21:33:51.501 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2024-08-16 21:33:51.507 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maya/repos/MartinLwx_dotfiles/.git/refs/remotes/origin/main'
+2024-08-16 21:33:51.508 [info] > git rev-parse --show-toplevel [8ms]
+2024-08-16 21:33:51.508 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-08-16 21:33:51.510 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-08-16 21:33:51.521 [info] > git status -z -uall [6ms]
+2024-08-16 21:33:51.551 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-08-16 21:33:51.559 [info] > git config --get commit.template [10ms]
+2024-08-16 21:33:51.562 [info] > git config --local branch.main.vscode-merge-base [5ms]
+2024-08-16 21:33:51.562 [warning] [Git][config] git config failed: Failed to execute git
+2024-08-16 21:33:51.635 [info] > git reflog main --grep-reflog=branch: Created from *. [69ms]
+2024-08-16 21:33:51.644 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [5ms]
+2024-08-16 21:33:51.649 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2024-08-16 21:33:51.654 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maya/repos/MartinLwx_dotfiles/.git/refs/remotes/origin/main'
+2024-08-16 21:33:51.658 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-08-16 21:33:51.662 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [13ms]
+2024-08-16 21:33:51.669 [info] > git status -z -uall [7ms]
+2024-08-16 21:33:51.683 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-08-16 21:33:51.690 [info] > git config --local branch.main.vscode-merge-base origin/main [23ms]
+2024-08-16 21:33:51.696 [info] > git config --local branch.main.vscode-merge-base [7ms]
+2024-08-16 21:33:51.703 [info] > git config --get commit.template [8ms]
+2024-08-16 21:33:51.704 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [3ms]
+2024-08-16 21:33:51.717 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2024-08-16 21:33:51.723 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-08-16 21:33:51.727 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maya/repos/MartinLwx_dotfiles/.git/refs/remotes/origin/main'
+2024-08-16 21:33:51.728 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [6ms]
+2024-08-16 21:33:51.734 [info] > git rev-parse refs/remotes/origin/main [7ms]
+2024-08-16 21:33:51.739 [info] > git diff --name-status -z --diff-filter=ADMR 9fe4146519edbab367f420d2a864853c2a15f5d0...refs/remotes/origin/main [6ms]
+2024-08-16 21:33:51.742 [info] > git status -z -uall [4ms]
+2024-08-16 21:33:51.750 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-08-16 21:33:51.759 [info] > git config --local branch.main.vscode-merge-base [3ms]
+2024-08-16 21:33:51.766 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [1ms]
+2024-08-16 21:33:52.014 [info] > git check-ignore -v -z --stdin [4ms]
+2024-08-16 21:33:52.789 [info] > git config --get commit.template [16ms]
+2024-08-16 21:33:52.794 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-08-16 21:33:52.804 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maya/repos/MartinLwx_dotfiles/.git/refs/remotes/origin/main'
+2024-08-16 21:33:52.809 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2024-08-16 21:33:52.828 [info] > git status -z -uall [8ms]
+2024-08-16 21:33:52.844 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-08-16 21:33:52.852 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-08-16 21:33:52.859 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-08-16 21:33:54.632 [info] > git show --textconv :hammerspoon/config.lua [8ms]
+2024-08-16 21:33:54.634 [info] > git ls-files --stage -- /home/maya/repos/MartinLwx_dotfiles/hammerspoon/config.lua [2ms]
+2024-08-16 21:33:54.639 [info] > git cat-file -s 2f8edc0b44de2e3375be1988ae216d844cf8681f [1ms]
+2024-08-16 21:35:25.096 [info] > git show --textconv :hammerspoon/config.lua [14ms]
+2024-08-16 21:35:25.099 [info] > git ls-files --stage -- /home/maya/repos/MartinLwx_dotfiles/hammerspoon/config.lua [6ms]
+2024-08-16 21:35:25.114 [info] > git cat-file -s 2f8edc0b44de2e3375be1988ae216d844cf8681f [5ms]
+2024-08-16 21:35:31.136 [info] > git show --textconv :hammerspoon/config.lua [21ms]
+2024-08-16 21:35:31.138 [info] > git ls-files --stage -- /home/maya/repos/MartinLwx_dotfiles/hammerspoon/config.lua [5ms]
+2024-08-16 21:35:31.148 [info] > git cat-file -s 2f8edc0b44de2e3375be1988ae216d844cf8681f [2ms]
+2024-08-16 21:35:37.682 [info] > git show --textconv :hammerspoon/config.lua [28ms]
+2024-08-16 21:35:37.687 [info] > git ls-files --stage -- /home/maya/repos/MartinLwx_dotfiles/hammerspoon/config.lua [9ms]
+2024-08-16 21:35:37.714 [info] > git cat-file -s 2f8edc0b44de2e3375be1988ae216d844cf8681f [8ms]
+2024-08-16 21:35:44.214 [info] > git show --textconv :hammerspoon/config.lua [21ms]
+2024-08-16 21:35:44.221 [info] > git ls-files --stage -- /home/maya/repos/MartinLwx_dotfiles/hammerspoon/config.lua [9ms]
+2024-08-16 21:35:44.246 [info] > git cat-file -s 2f8edc0b44de2e3375be1988ae216d844cf8681f [9ms]
+2024-08-16 21:35:52.276 [info] > git show --textconv :hammerspoon/config.lua [19ms]
+2024-08-16 21:35:52.280 [info] > git ls-files --stage -- /home/maya/repos/MartinLwx_dotfiles/hammerspoon/config.lua [8ms]
+2024-08-16 21:35:52.292 [info] > git cat-file -s 2f8edc0b44de2e3375be1988ae216d844cf8681f [4ms]
+2024-08-16 21:36:03.322 [info] > git show --textconv :hammerspoon/config.lua [12ms]
+2024-08-16 21:36:03.325 [info] > git ls-files --stage -- /home/maya/repos/MartinLwx_dotfiles/hammerspoon/config.lua [7ms]
+2024-08-16 21:36:03.339 [info] > git cat-file -s 2f8edc0b44de2e3375be1988ae216d844cf8681f [4ms]
+2024-08-16 21:36:09.597 [info] > git show --textconv :hammerspoon/config.lua [16ms]
+2024-08-16 21:36:09.601 [info] > git ls-files --stage -- /home/maya/repos/MartinLwx_dotfiles/hammerspoon/config.lua [6ms]
+2024-08-16 21:36:09.620 [info] > git cat-file -s 2f8edc0b44de2e3375be1988ae216d844cf8681f [7ms]
+2024-08-16 21:36:14.567 [info] > git show --textconv :hammerspoon/config.lua [19ms]
+2024-08-16 21:36:14.572 [info] > git ls-files --stage -- /home/maya/repos/MartinLwx_dotfiles/hammerspoon/config.lua [8ms]
+2024-08-16 21:36:14.588 [info] > git cat-file -s 2f8edc0b44de2e3375be1988ae216d844cf8681f [4ms]
+2024-08-16 21:36:23.434 [info] > git show --textconv :hammerspoon/config.lua [16ms]
+2024-08-16 21:36:23.438 [info] > git ls-files --stage -- /home/maya/repos/MartinLwx_dotfiles/hammerspoon/config.lua [6ms]
+2024-08-16 21:36:23.455 [info] > git cat-file -s 2f8edc0b44de2e3375be1988ae216d844cf8681f [4ms]

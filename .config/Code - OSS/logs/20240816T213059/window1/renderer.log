@@ -1,0 +1,13 @@
+2024-08-16 21:31:01.078 [info] Started local extension host with pid 970.
+2024-08-16 21:31:03.845 [info] [perf] Render performance baseline is 76ms
+2024-08-16 21:31:19.309 [info] Started local extension host with pid 1040.
+2024-08-16 21:31:22.173 [info] [perf] Render performance baseline is 50ms
+2024-08-16 21:35:00.229 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: issueReporter.experimental.auxWindow
+2024-08-16 21:36:33.180 [error] Unable to read file '/home/maya/repos/MartinLwx_dotfiles/hammerspoon/config.lua' (Error: File not modified since): Error: Unable to read file '/home/maya/repos/MartinLwx_dotfiles/hammerspoon/config.lua' (Error: File not modified since)
+    at r.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:662:19353)
+    at r.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:662:19238)
+    at async b.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2450:35468)
+    at async b.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2450:35225)
+    at async P.Db (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2439:12236)
+    at async P.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2439:10648)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2450:31253

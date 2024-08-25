@@ -1,0 +1,139 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="pythonProject" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1sboo6lwcgpz5">
+      <file>
+        <entry file="file://$PROJECT_DIR$/.venv/testing.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="22">
+              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Python": {
+      "usageCount": 1,
+      "lastUsed": 1724593407152
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/testing.py" />
+      <option value="$PROJECT_DIR$/.venv/testing.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="1" lastUsage="1724593407157" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/maya/PycharmProjects/pythonProject}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/maya/PycharmProjects/pythonProject}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/maya/PycharmProjects/pythonProject/.venv}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32979503" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3298898" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.3298898" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3298898" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.3298898" left="0.32979503" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Python Console</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1284" height="197" key="GridCell.Tab.0.bottom" timestamp="1724593523148">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1284" height="197" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1724593523148" />
+    <state width="1284" height="197" key="GridCell.Tab.0.center" timestamp="1724593523148">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1284" height="197" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1724593523148" />
+    <state width="1284" height="197" key="GridCell.Tab.0.left" timestamp="1724593523147">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1284" height="197" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1724593523147" />
+    <state width="1284" height="197" key="GridCell.Tab.0.right" timestamp="1724593523148">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1284" height="197" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1724593523148" />
+    <state x="347" y="181" key="run.anything.popup" timestamp="1724593546832">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="347" y="181" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1724593546832" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.venv/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

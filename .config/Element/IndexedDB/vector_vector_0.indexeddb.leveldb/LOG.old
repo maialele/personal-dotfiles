@@ -1,0 +1,44 @@
+2024/08/17-14:09:43.357 353 Reusing MANIFEST /home/maya/.config/Element/IndexedDB/vector_vector_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/17-14:09:43.357 353 Recovering log #174
+2024/08/17-14:09:43.363 353 Reusing old log /home/maya/.config/Element/IndexedDB/vector_vector_0.indexeddb.leveldb/000174.log 
+2024/08/17-14:09:43.363 353 Delete type=2 #173
+2024/08/17-14:09:43.941 37e Compacting 1@1 + 1@2 files
+2024/08/17-14:09:43.989 37e Generated table #178@1: 4171 keys, 2163133 bytes
+2024/08/17-14:09:44.004 37e Generated table #179@1: 12 keys, 15066 bytes
+2024/08/17-14:09:44.004 37e Compacted 1@1 + 1@2 files => 2178199 bytes
+2024/08/17-14:09:44.020 37e compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/08/17-14:09:47.494 37e Level-0 table #181: started
+2024/08/17-14:09:47.506 37e Level-0 table #181: 107975 bytes OK
+2024/08/17-14:09:47.530 37e Delete type=2 #164
+2024/08/17-14:09:47.530 37e Delete type=0 #174
+2024/08/17-14:09:47.530 37e Delete type=2 #176
+2024/08/17-14:09:47.531 37e Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/17-14:09:47.562 37e Level-0 table #183: started
+2024/08/17-14:09:47.575 37e Level-0 table #183: 520 bytes OK
+2024/08/17-14:09:47.604 37e Delete type=0 #180
+2024/08/17-14:09:47.605 37e Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at '\x00&\x00\x00\x05' @ 139125 : 1
+2024/08/17-14:09:47.605 37e Compacting 1@0 + 1@1 files
+2024/08/17-14:09:47.625 37e Generated table #184@0: 330 keys, 28751 bytes
+2024/08/17-14:09:47.625 37e Compacted 1@0 + 1@1 files => 28751 bytes
+2024/08/17-14:09:47.659 37e compacted to: files[ 0 1 5 0 0 0 0 ]
+2024/08/17-14:09:47.661 37e Delete type=2 #183
+2024/08/17-14:09:47.663 351 Manual compaction at level-0 from '\x00&\x00\x00\x05' @ 139125 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/17-14:09:47.665 351 Level-0 table #186: started
+2024/08/17-14:09:47.674 351 Level-0 table #186: 520 bytes OK
+2024/08/17-14:09:47.697 351 Delete type=2 #181
+2024/08/17-14:09:47.697 351 Delete type=0 #182
+2024/08/17-14:09:47.698 351 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at '\x00'\x00\x00\x05' @ 139144 : 1
+2024/08/17-14:09:47.698 351 Compacting 1@0 + 1@1 files
+2024/08/17-14:09:47.715 351 Generated table #187@0: 334 keys, 28787 bytes
+2024/08/17-14:09:47.715 351 Compacted 1@0 + 1@1 files => 28787 bytes
+2024/08/17-14:09:47.733 351 compacted to: files[ 0 1 5 0 0 0 0 ]
+2024/08/17-14:09:47.734 351 Delete type=2 #186
+2024/08/17-14:09:47.735 351 Manual compaction at level-0 from '\x00'\x00\x00\x05' @ 139144 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/17-14:14:08.939 353 Compacting 1@1 + 1@2 files
+2024/08/17-14:14:09.003 353 Generated table #188@1: 4179 keys, 2163847 bytes
+2024/08/17-14:14:09.013 353 Generated table #189@1: 9 keys, 11238 bytes
+2024/08/17-14:14:09.013 353 Compacted 1@1 + 1@2 files => 2175085 bytes
+2024/08/17-14:14:09.035 353 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/08/17-14:14:09.036 353 Delete type=2 #178
+2024/08/17-14:14:09.037 353 Delete type=2 #184
+2024/08/17-14:14:09.037 353 Delete type=2 #187
